@@ -589,7 +589,7 @@ const EventRegistrationForm = () => {
                                         I agree to receive event-related emails
                                         and accept the{" "}
                                         <a
-                                            href="#/terms"
+                                            href="/terms"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                         >
