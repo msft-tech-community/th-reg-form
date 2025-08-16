@@ -200,7 +200,7 @@ const EventRegistrationForm = () => {
                                 shortly with further details.
                             </div>
                             <a
-                                href="https://chat.whatsapp.com/LPwCoHlTslhJLrFuKjbiiI"
+                                href="https://chat.whatsapp.com/Cu2VKvdQXstJ27f2yBWYMM"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="whatsapp-btn"
